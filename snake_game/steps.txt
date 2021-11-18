@@ -1,0 +1,16 @@
+Import the necessary library
+pygame is for building games using python
+set the display size using display.setmode
+fill the color which you want
+import the picture you want 
+give the location of picture to be displayed using blit
+flip or updatet the display once the picture is imported
+run the loop using while loop
+define the event using get event
+define event type as pressing key
+and then put if else statements as required
+define classe and make the code oops based
+make the snake to run on its own and change the direction on user input 
+68, 189, 187
+build the snake by giving the length
+import the fruit same as snake block

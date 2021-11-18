@@ -1,0 +1,5 @@
+pygame.display.set_mode((800, 600)) --- for loading pygame window
+pygame.image.load("resources/straw.jpg").convert() --- for loading image in a variable
+self.parent_screen.blit(self.image, (self.x, self.y)) --- drawing the block 
+pygame.display.flip() --- update the window after image loading
+pygame.event.get() --- for showing pressing of key as an event
